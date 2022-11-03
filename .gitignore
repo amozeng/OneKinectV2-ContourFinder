@@ -1,0 +1,9 @@
+# ignore all files in any directory named bin
+
+# file formats
+*.xcodeproj
+*.xcconfig
+*.plist
+*.app
+/Makefile
+
