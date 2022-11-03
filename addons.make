@@ -1,0 +1,4 @@
+ofxOpenCv
+ofxCv
+ofxGui
+ofxKinectV2-afde06f7453a357b51b5815a7866d2b33cfd3efd
